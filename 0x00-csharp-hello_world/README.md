@@ -1,3 +1,3 @@
-# 0x01. C# - if/else, loops, functions
+# 0x00. C# - Hello, World
 
-Project about if/else, loops and functions in C#
+Project about hello world in C#
